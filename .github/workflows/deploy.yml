@@ -29,7 +29,7 @@ jobs:
           node-version: lts/*
 
       - name: Install step
-        run: "npm install hugo"
+        run: "npm install -g hugo"
 
       - name: Build step
         run: "hugo"
