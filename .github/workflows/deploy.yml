@@ -29,7 +29,7 @@ jobs:
           node-version: lts/*
 
       - name: Install step
-        run: "snap install hugo"
+        run: "sudo snap install hugo"
 
       - name: Build step
         run: "hugo"
