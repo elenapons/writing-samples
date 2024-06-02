@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://epons-portfolio.deno.dev"
 title        = "Elena Pons | Technical Writer"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
