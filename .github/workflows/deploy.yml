@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "epons-portfolio"
-          entrypoint: "jsr:@std/http/file_server"
-          root: "portfolio-hugo2"
+          entrypoint: "https://deno.land/x/std/http/file_server.ts"
+          root: "portfolio-hugo2/public"
