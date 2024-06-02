@@ -1,0 +1,12 @@
+[submodule "portfolio-hugoo/themes/roxo-hugo"]
+	path = portfolio-hugoo/themes/roxo-hugo
+	url = git@github.com:StaticMania/roxo-hugo.git
+[submodule "portfolio-hugo2/themes/roxo-hugo"]
+	path = portfolio-hugo2/themes/roxo-hugo
+	url = git@github.com:StaticMania/roxo-hugo.git
+[submodule "portfolio-hugo2/themes/hugo-coder"]
+	path = portfolio-hugo2/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "portfolio-hugo2/themes/hello-friend-ng"]
+	path = portfolio-hugo2/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
