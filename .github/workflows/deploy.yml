@@ -32,7 +32,7 @@ jobs:
         run: "sudo snap install hugo"
 
       - name: Build step
-        run: "hugo"
+        run: "cd portfolio-hugo2 && hugo"
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
