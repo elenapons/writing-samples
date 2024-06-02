@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TUTORIAL on Elena Pons</title>
-    <link>//localhost:1313/tags/tutorial/</link>
+    <link>localhost/tags/tutorial/</link>
     <description>Recent content in TUTORIAL on Elena Pons</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 25 Dec 2019 15:44:46 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Branded Fares Upsell API with Postman</title>
-      <link>//localhost:1313/portfolio/tutorial-branded-fares/</link>
+      <link>localhost/portfolio/tutorial-branded-fares/</link>
       <pubDate>Wed, 25 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>//localhost:1313/portfolio/tutorial-branded-fares/</guid>
+      <guid>localhost/portfolio/tutorial-branded-fares/</guid>
       <description>This tutorial was a small test to learn how to make requests to an Amadeus for Developers API.&#xA;Introduction In this tutorial, you will learn to use the Branded Fares Upsell API.&#xA;This tutorial will help you familiarize yourself with the process of making requests to the Branded Fares Upsell API using Postman, an application used for API testing. To know more about Postman you can read its documentation.</description>
     </item>
   </channel>

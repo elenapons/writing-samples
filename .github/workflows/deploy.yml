@@ -17,22 +17,19 @@ jobs:
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true or recursive)
 
       - name: Install Deno
         uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
 
-      - name: Install Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: lts/*
-
       - name: Install step
         run: "sudo snap install hugo"
 
       - name: Build step
-        run: "cd portfolio-hugo2 && hugo"
+        run: "cd portfolio-hugo2 && hugo --minify"
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1

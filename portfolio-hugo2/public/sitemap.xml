@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/portfolio/tutorial-branded-fares/</loc>
+    <loc>localhost/portfolio/tutorial-branded-fares/</loc>
     <lastmod>2019-12-25T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>localhost/</loc>
     <lastmod>2019-12-25T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2019-12-25T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tutorial/</loc>
+    <loc>localhost/tags/tutorial/</loc>
     <lastmod>2019-12-25T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>localhost/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/</loc>
+    <loc>localhost/portfolio/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/faq/</loc>
+    <loc>localhost/tags/faq/</loc>
     <lastmod>2019-12-20T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/faq-opensearch/</loc>
+    <loc>localhost/portfolio/faq-opensearch/</loc>
     <lastmod>2019-12-20T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/guide/</loc>
+    <loc>localhost/tags/guide/</loc>
     <lastmod>2019-12-18T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/installation/</loc>
+    <loc>localhost/portfolio/installation/</loc>
     <lastmod>2019-12-18T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>localhost/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>localhost/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>localhost/series/</loc>
   </url>
 </urlset>
