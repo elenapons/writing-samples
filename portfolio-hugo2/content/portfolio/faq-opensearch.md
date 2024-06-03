@@ -11,8 +11,6 @@ project_images: ["images/projects/project-details-image-one.jpg", "images/projec
 
 > This FAQ explains some of the reasons for moving a software product based on Open Distro to OpenSearch. It was meant to serve as a guide to understand the need for the changes and the steps necessary to upgrade the software components. 
 
-# FAQ: Moving to OpenSearch
-
 ## Why is ACME moving away from Open Distro?
 
 The release in 2010 of Elasticsearch marked a significant milestone in the world of search and data analytics. It offered a distributed, open-source, full-text search and analytics engine designed for multitenancy and scalability. For that reason, ACME quickly adapted the technology and released its own ACME Elasticsearch Framework. That framework was developed and maintained for Universes 9.4, 10.0, 11.0, 11.1, 11.2 and 11.3.
