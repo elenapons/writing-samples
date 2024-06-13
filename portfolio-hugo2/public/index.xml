@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elena Pons</title>
-    <link>localhost/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Elena Pons</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 25 Dec 2019 15:44:46 +0600</lastBuildDate>
-    <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Branded Fares Upsell API with Postman</title>
-      <link>localhost/portfolio/tutorial-branded-fares/</link>
+      <link>http://localhost:1313/portfolio/tutorial-branded-fares/</link>
       <pubDate>Wed, 25 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>localhost/portfolio/tutorial-branded-fares/</guid>
+      <guid>http://localhost:1313/portfolio/tutorial-branded-fares/</guid>
       <description>This tutorial was a small test to learn how to make requests to an Amadeus for Developers API.&#xA;Introduction In this tutorial, you will learn to use the Branded Fares Upsell API.&#xA;This tutorial will help you familiarize yourself with the process of making requests to the Branded Fares Upsell API using Postman, an application used for API testing. To know more about Postman you can read its documentation.</description>
     </item>
     <item>
       <title>Moving to OpenSearch</title>
-      <link>localhost/portfolio/faq-opensearch/</link>
+      <link>http://localhost:1313/portfolio/faq-opensearch/</link>
       <pubDate>Fri, 20 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>localhost/portfolio/faq-opensearch/</guid>
-      <description>This FAQ explains some of the reasons for moving a software product based on Open Distro to OpenSearch. It was meant to serve as a guide to understand the need for the changes and the steps necessary to upgrade the software components.&#xA;FAQ: Moving to OpenSearch Why is ACME moving away from Open Distro? The release in 2010 of Elasticsearch marked a significant milestone in the world of search and data analytics.</description>
+      <guid>http://localhost:1313/portfolio/faq-opensearch/</guid>
+      <description>This FAQ explains some of the reasons for moving a software product based on Open Distro to OpenSearch. It was meant to serve as a guide to understand the need for the changes and the steps necessary to upgrade the software components.&#xA;Why is ACME moving away from Open Distro? The release in 2010 of Elasticsearch marked a significant milestone in the world of search and data analytics. It offered a distributed, open-source, full-text search and analytics engine designed for multitenancy and scalability.</description>
     </item>
     <item>
       <title>Install and configure Encly</title>
-      <link>localhost/portfolio/installation/</link>
+      <link>http://localhost:1313/portfolio/installation/</link>
       <pubDate>Wed, 18 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>localhost/portfolio/installation/</guid>
+      <guid>http://localhost:1313/portfolio/installation/</guid>
       <description>This guide explains how to install a fictitious software product, “Encly”. Encly is based on a real much larger product I documented, though many details have changed in this document. I wrote the original document in asciidoc and it was published using Antora.&#xA;Install and configure Encly See Encly documentation for details about the component and its architecture.&#xA;Prerequisites To install Encly you must run an Ansible playbook. This can be done by accessing the os-operator pod in the os-ops namespace.</description>
     </item>
   </channel>

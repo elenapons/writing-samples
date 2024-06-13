@@ -1,15 +1,15 @@
 ---
-title: "About me"
-date: 2018-07-12T18:19:33+06:00
-heading : "Technical writer working with docs-as-code approach."
-description : "Accomplished Technical Writer with a PhD and over 5 years of hands-on experience in the technological field,
-including 2 years of experience documenting a Kubernetes-based distributed system. Exceptional editorial
-capabilities and expertise to communicate complex information effectively. Adaptive team player with in-depth
-knowledge of technical writing tools, including those for a docs-as-code approach. Successfully maintains
-technical documentation and has knowledge of various programming languages. Strong work ethic, and
-excellent writing skills in English, German and Spanish."
-expertise_title: "Expertise"
-expertise_sectors: ["Technical Writing", "Markup languages", "API Documentation", "Git", "Spanish, German, Catalan"]
-toolkit_title: "Toolkit"
-toolkit_content: ["Antora"]
+title: "About"
+date: 2020-12-111T15:44:46+06:00
+type: about
 ---
+
+From a young age, I have always had a passion for learning. I did not always like going to school, but I did love songs as a means to understand the world around me, even before I could read.
+
+As I grew older, I believed that staying in school was the only way to continue my learning journey. This led me to musicology, which offered a perfect blend of insight and creativity and kept me motivated. After earning my bachelor's degree, I moved to the UK to pursue a master's and PhD in musicology. My time there was spent researching, writing, and teaching, which deepened my appreciation for knowledge.
+
+In an effort to widen the scope of my [PhD research](https://pure.royalholloway.ac.uk/en/publications/arranging-the-canon-keyboard-arrangements-publishing-practices-an), I discovered the potential of software technology. Intrigued by its possibilities, I began taking online courses and found that software development was not only accessible but also offered endless opportunities for learning.
+
+After completing my PhD, my goals shifted. I was drawn to a career as a software technical writer, where I could leverage my writing and teaching skills to simplify complex technical concepts for a broader audience. Combining my expertise in writing with my new passion for technology and software development was a natural fit.
+
+My specialties include rapidly acquiring new skills and tools, using Git/GitHub, Asciidoc/Antora, problem-solving, and documenting Kubernetes-based distributed systems. I am also an advocate for the Diataxis framework and have recently built my own [portfolio website using Hugo](https://epons.tech/).

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Elena Pons</title>
+    <link>http://localhost:1313/tags/faq/</link>
+    <description>Recent content in FAQ on Elena Pons</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 15:44:46 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving to OpenSearch</title>
+      <link>http://localhost:1313/portfolio/faq-opensearch/</link>
+      <pubDate>Fri, 20 Dec 2019 15:44:46 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/faq-opensearch/</guid>
+      <description>This FAQ explains some of the reasons for moving a software product based on Open Distro to OpenSearch. It was meant to serve as a guide to understand the need for the changes and the steps necessary to upgrade the software components.&#xA;Why is ACME moving away from Open Distro? The release in 2010 of Elasticsearch marked a significant milestone in the world of search and data analytics. It offered a distributed, open-source, full-text search and analytics engine designed for multitenancy and scalability.</description>
+    </item>
+  </channel>
+</rss>

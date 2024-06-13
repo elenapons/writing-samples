@@ -55,14 +55,15 @@ logoMark     = "="
 
 # And you can even create generic menu
 [[menu.main]]
+identifier = "about"
+name       = "About Me"
+url        = "/about"
+
+[[menu.main]]
 identifier = "portfolio"
 name       = "Portfolio"
 url        = "/portfolio"
-#
-#[[menu.about]]
-#identifier = "about"
-#name       = "About Me"
-#url        = "/about"
+weight = 2
 
 [[params.social]]
 name = "github"
