@@ -56,7 +56,7 @@ logoMark     = "="
 # And you can even create generic menu
 [[menu.main]]
 identifier = "about"
-name       = "About Me"
+name       = "About"
 url        = "/about"
 
 [[menu.main]]
